@@ -1,0 +1,7 @@
+Di bangun dengan laravel 9
+
+1 lakukan composer install/composer update
+2 migrate untuk membuat database atau bisa import sudah di siapkan
+3 jalankan laravel local dengan php artisan serve
+4 menuju link http://127.0.0.1:8000/dataNasabah/index
+5. aplikasi bisa dijalankan
