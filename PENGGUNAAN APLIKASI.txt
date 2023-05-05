@@ -1,7 +1,9 @@
 Di bangun dengan laravel 9
-
-1 lakukan composer install/composer update
-2 migrate untuk membuat database atau bisa import sudah di siapkan
-3 jalankan laravel local dengan php artisan serve
-4 menuju link http://127.0.0.1:8000/dataNasabah/index
-5. aplikasi bisa dijalankan
+1 buka folder laravel dan buka terminal dan arahkan ke folder laravel
+2 lakukan composer install/composer update
+3 lakukan copy env dengan cara 'cp .env.example .env' tanpa tanda kutip
+4 lakukan genrate key dengan cara 'php artisan key:generate' tanpa tanda kutip
+5 migrate untuk membuat database atau bisa import sudah di siapkan dan jangan lupa sesuaikan dengan nama yangdi env
+6 jalankan laravel local dengan php artisan serve
+7 menuju link http://127.0.0.1:8000/dataNasabah/index
+8. aplikasi bisa dijalankan
